@@ -1,0 +1,12 @@
+{
+	"appId": "",
+  "token": "",
+  "pgpKeyGeneratorParams": {
+    "curve": "",
+    "passphrase": "",
+    "userIDs": [{
+      "name": "",
+      "email": ""
+    }]
+  }
+}
